@@ -1,2 +1,5 @@
 # LandingBot
-Landing Page para sitio comercial de bot de whatsapp. 
+
+Landing Page para sitio comercial de bot de whatsapp.
+
+respuesta rápida: Icono de Uniconlabs
